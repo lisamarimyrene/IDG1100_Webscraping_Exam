@@ -1,9 +1,0 @@
-<a class="article__link
-https://www.cdn.tv2.no/images/15012426.jpg?imageId=15012426&x=0&y=2.5316455696203&cropw=100&croph=45.569620253165&width=1060&height=446" data-srcset=>
-– Det er ikke mine penger
-2022-10-02 13:36
-<a class="article__link
-https://www.cdn.tv2.no/images/15150016.jpg?imageId=15150016&x=0&y=0&cropw=100&croph=93.240093240093&width=744&height=400" data-srcset=>
-– Jeg satt på t-banen og begynte å gråte
-2022-10-02 13:36
-<a class="article__link
