@@ -1,0 +1,10 @@
+[Unit]
+    Description=A job to test the systemd scheduler
+
+    [Service]
+    Type=simple
+    ExecStart=/home/pi/idg1100-559688/mainScript.sh #Changed it to my path
+
+    [Install]
+    WantedBy=default.target
+
